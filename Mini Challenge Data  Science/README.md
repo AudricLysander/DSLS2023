@@ -4,6 +4,7 @@ Tanggung jawab utama seorang data consultant adalah membantu perusahaan maupun p
 Umumnya, machine learning terbagi menjadi dua: supervised learning dan unsupervised learning. Supervised learning merupakan cabang machine learning dengan tujuan untuk melakukan prediksi pada data yang sudah diberi label. Sedangkan unsupervised learning digunakan untuk menemukan pola pada suatu dataset. Pada projek ini, Anda akan berlatih menggunakan machine learning untuk memperoleh insight yang dapat digunakan sebagai acuan dalam pengambilan keputusan.
 
 Dataset: https://drive.google.com/file/d/1cL3xlQR3Yet4XOl149bkiYdBa7EPXEFF/view?usp=sharing
+
 aggregate_median_jams_Kota Bogor
   - time: Time (every hour)
   - kemendagri_kabupaten_kode:	Kemendagri code of cities
